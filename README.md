@@ -87,4 +87,6 @@ This repository is intended just to share my own solution to the problem sets. R
     
 ### - [Week 10 Emoji](https://cs50.harvard.edu/x/2022/weeks/10/)
 
-### - [Final Project: Minishell](/project)
+### - [Final Project](https://cs50.harvard.edu/x/2022/project/)
+
+* [Minishell](/project)
