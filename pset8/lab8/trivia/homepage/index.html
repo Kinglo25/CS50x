@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-md navbar-light bg-light border">
+            <ul class="navbar-nav mr-auto mt-2">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="cats.html">Cats</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="dogs.html">Dogs</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="elephant.html">Elephants</a>
+                </li>
+            </ul>
+        </nav>
+        <main class="container p-1">
+            <h1><span id="name">Picture of my 3 favorite animals</span></h1>
+            <h2>Are they cute ?</h2>
+            <img src="data:image/png;base64,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"
+            alt="Favorite animals">
+
+            <h3 class="about">These are my favorite animals</h3>
+            <ul>
+                <li>Dogs</li>
+                <li>Cats</li>
+                <li>Elephants</li>
+            </ul>
+            <h4 class="about">These are the name I would give them if I had one</h4>
+            <table>
+                <tr>
+                    <th>Animal</th>
+                    <th>Name</th>
+                </tr>
+                <tr>
+                    <td>Elephant</td>
+                    <td>Dumbo</td>
+                </tr>
+                <tr>
+                    <td>Cat</td>
+                    <td>Vikxy</td>
+                </tr>
+                <tr>
+                    <td>Dog</td>
+                    <td>Nomnom</td>
+                </tr>
+            </table>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>

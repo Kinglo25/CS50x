@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: By elimination it can't be merge and is faster than sort3 when already sorted (omega(n))
+
+sort2 uses: Merge sort
+
+How do you know?: Way faster than the others to sort random list of number
+
+sort3 uses: Selection sort
+
+How do you know?: Is the slowest in the best case omega(n^2)
