@@ -14,63 +14,77 @@ This repository is intended just to share my own solution to the problem sets. R
 ### - [Week 0: Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)
 * [Problem Set 0](/pset0)
 
-### - [Week 1: C](https://cs50.harvard.edu/x/2020/psets/1/)
+### - [Week 1: C](https://cs50.harvard.edu/x/2022/weeks/1/)
 
 * [Problem Set 1](/pset1)
     - [Hello](/pset1/hello)
-    - [Mario Less](/pset1/mario1)
     - [Mario More](/pset1/mario2)
-    - [Cash](/pset1/cash)
     - [Credit](/pset1/credit)
 
-### - [Week 2: Arrays](https://cs50.harvard.edu/x/2020/psets/2/)
+### - [Week 2: Arrays](https://cs50.harvard.edu/x/2022/weeks/2/)
 
 * [Problem Set 2](/pset2)
     - [Readability](/pset2/readability)
-    - [Caesar](/pset2/caesar)
     - [Substitution](/pset2/substitution)
 
-### - [Week 3: Algorithms](https://cs50.harvard.edu/x/2020/psets/3/)
+### - [Week 3: Algorithms](https://cs50.harvard.edu/x/2022/weeks/3/)
 
 * [Problem Set 3](/pset3)
     - [Plurality](/pset3/plurality)
     - [Runoff](/pset3/runoff)
     - [Tideman](/pset3/tideman)
+* [Lab 3](/pset3/lab3)
+    - [Sort](/pset3/lab3/sort)
 
-### - [Week 4: Memory](https://cs50.harvard.edu/x/2020/psets/4/)
+### - [Week 4: Memory](https://cs50.harvard.edu/x/2022/weeks/4/)
 
 * [Problem Set 4](/pset4)
     - [Filter Less](/pset4/less/filter)
     - [Filter More](/pset4/more/filter)
     - [Recover](/pset4/recover)
+* [Lab 4](/pset4/lab4)
+    - [Volume](/pset4/lab4/volume)
 
-### - [Week 5: Data Structures](https://cs50.harvard.edu/x/2020/psets/5/)
+### - [Week 5: Data Structures](https://cs50.harvard.edu/x/2022/weeks/5/)
 
 * [Problem Set 5](/pset5)
     - [Speller](/pset5/speller)
+* [Lab 5](/pset5/lab5)
+    - [Inheritance](/pset5/lab5/Inheritance)
 
-### - [Week 6: Python](https://cs50.harvard.edu/x/2020/psets/6/)
+### - [Week 6: Python](https://cs50.harvard.edu/x/2022/weeks/6/)
 
 * [Problem Set 6](/pset6)
     - [Hello](/pset6/hello)
-    - [Mario Less](/pset6/mario/less)
     - [Mario More](/pset6/mario/more)
-    - [Cash](/pset6/cash)
     - [Credit](/pset6/credit)
     - [Readability](/pset6/readability)
     - [DNA](/pset6/dna)
+* [Lab 6](/pset6/lab6)
+    - [World-cup](/pset6/lab6/world-cup)
 
-### - [Week 7: SQL](https://cs50.harvard.edu/x/2020/psets/7/)
+### - [Week 7: SQL](https://cs50.harvard.edu/x/2022/weeks/7/)
 
 * [Problem Set 7](/pset7)
-    - [Houses](/pset7/houses)
+    - [Fiftyville](/pset7/fiftyville)
     - [Movies](/pset7/movies)
+* [Lab 7](/pset7/lab7)
+    - [Songs](/pset7/lab7/songs)
 
-### - [Week 8: Information / Choose your Track](https://cs50.harvard.edu/x/2020/tracks/)
+### - [Week 8 HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2022/weeks/8/)
 
-* [Problem Set 8: Games Track](https://cs50.harvard.edu/x/2020/tracks/games/)
-    - [Pong](/GameTrack/pong)
-    - [Mario](/GameTrack/mario)
+* [Problem Set 8](/pset8)
+    - [Homepage](/pset8/homepage)
+* [Lab 8](/pset8/lab8)
+    - [Trivia](/pset8/lab8/trivia)
+ 
+### - [Week 9 Flask](https://cs50.harvard.edu/x/2022/weeks/9/)
 
-### - [Final Proyect: Mellow Land](https://github.com/NiltonRodriguez/CS50x-2020-Final-Project-MellowLand)
-* [A Platform Video Game developed in Lua with Löve2D.](https://www.youtube.com/watch?v=88to8FiGnXQ)
+* [Problem Set 9](/pset9)
+    - [Finance](/pset9/finance)
+* [Lab 9](/pset9/lab9)
+    - [Birthdays](/pset9/lab9/birthdays)
+    
+### - [Week 10 Emoji](https://cs50.harvard.edu/x/2022/weeks/10/)
+
+### - [Final Project: Minishell](/project)
