@@ -91,4 +91,4 @@ This repository is intended just to share my own solution to the problem sets. R
 
 * [Minishell](/project)
 
-### - ![CS50 Certificate](https://certificates.cs50.io/6cd7f7d1-e7cd-4642-86c9-815f21063841.png?size=letter)
+### - ![CS50 Certificate](https://certificates.cs50.io/6cd7f7d1-e7cd-4642-86c9-815f21063841.pdf?size=letter)
