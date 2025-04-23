@@ -1,6 +1,6 @@
 ## Certifications
 
-[![CS50X Certificate](certificate/CS50P.png)](https://certificates.cs50.io/c238c9de-df00-4943-bbd8-c42ac2195bb7.pdf?size=letter)
+[![CS50x Certificate](certificate/CS50x.png)](https://certificates.cs50.io/51b4a0bb-16b6-47e3-8ce3-8d6a1a6e91ef.pdf?size=letter)
 
 
 # [CS50x-2022](https://cs50.harvard.edu/x/2022/)
